@@ -6,3 +6,4 @@ Key Features:
 User-friendly interface for students.
 Interactive lessons and quizzes.
 Database integration for managing user data and progress.
+
